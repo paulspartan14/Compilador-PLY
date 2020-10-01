@@ -1,0 +1,11 @@
+int a = 12;
+string hola = "Hey!";
+float num = 12.12;
+
+#error de incompatibilidad
+string nombre = 12;
+
+while(a >=10){
+    w = z * 3;
+    j = w / 2;
+}

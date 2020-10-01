@@ -1,0 +1,7 @@
+  ERROR      LEX       LINE        DESC 
+ 
+ ERRSEM1    string      6     incompatible types
+ ERRSEM2      z         9     Undefined name
+ ERRSEM3      w         9     Undefined name
+ ERRSEM4      w         10    Undefined name
+ ERRSEM5      j         10    Undefined name

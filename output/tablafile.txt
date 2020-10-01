@@ -1,0 +1,30 @@
+   TABLA DE SIMBOLOS 
+ 
+  LEXEMA    TOKEN       TIPO 
+ 
+   int       TD1    
+    a        ID1       int    
+    =        AS1    
+    12       CNE1   
+    ;        SEP1   
+  string     TD2    
+   hola      ID2      string  
+  "Hey!"     VAL    
+  float      TD4    
+   num       ID3      float   
+  12.12      CNE2   
+  nombre     ID4    
+  while      IT1    
+    (        DEL1   
+    >=      OPRE1   
+    10       CNE3   
+    )        DEL2   
+    {        DEL3   
+    w        ID5    
+    z        ID6    
+    *       OPAR3   
+    3        CNE4   
+    j        ID7    
+    /       OPAR4   
+    2        CNE5   
+    }        DEL4   
