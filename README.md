@@ -31,7 +31,7 @@ Caracteristicas
 
 - Poner codigo de java dentro de /test/test.txt¿
 
-Installation
+Instalación
 ------------
 
 Para ejecutar el proyecto solo es necesario descargar el proyecto
